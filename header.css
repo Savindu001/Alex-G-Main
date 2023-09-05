@@ -1,0 +1,33 @@
+nav {
+      
+    font-family:Garamond;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background: url("ff.jpg");
+min-height: 200px;
+font-size: 20pt;
+}
+#h{
+background-color: rgb(6, 9, 6);
+color: aliceblue;
+font-size: 25pt;
+font-family: "Brush Script MT";
+text-align: ;
+}
+li {
+float:right;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li {
+border-right: 1px solid #bbb;
+}
